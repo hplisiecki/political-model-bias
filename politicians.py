@@ -1,0 +1,22 @@
+names = [
+    "Władysław Kosiniak-Kamysz",
+    "Szymon Hołownia",
+    "Andrzej Duda",
+    "Rafał Trzaskowski",
+    "Włodzimierz Czarzasty",
+    "Tomasz Grodzki",
+    "Mariusz Błaszczak",
+    "Elżbieta Witek",
+    "Donald Tusk",
+    "Mateusz Morawiecki",
+    "Jarosław Kaczyński",
+    "Zbigniew Ziobro",
+    "Sławomir Mentzen",
+    "Przemysław Czarnek",
+    "Robert Biedroń",
+    "Piotr Zgorzelski",
+    "Beata Szydło",
+    "Adrian Zandberg",
+    "Krzysztof Bosak",
+    "Michał Kołodziejczak"
+]
