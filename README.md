@@ -10,3 +10,6 @@ Additional relevant files:
 
 Script for training the modified model:
 https://colab.research.google.com/drive/1UJ3RwhZjCpNDyn6E3mnp51Ru1TXlT4ZZ?usp=sharing
+
+Statistical analyses scripts:
+https://osf.io/q8bes/?view_only=6f246610bc0b43cc9e98d7c978f2f6fa
