@@ -7,3 +7,6 @@ This code was used to:
 
 Additional relevant files:
 1. data/subsets_to_check - Contains the training datapoints with the names of the relevant politicians
+
+Script for training the modified model:
+https://colab.research.google.com/drive/1UJ3RwhZjCpNDyn6E3mnp51Ru1TXlT4ZZ?usp=sharing
